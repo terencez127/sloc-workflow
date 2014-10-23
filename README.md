@@ -1,6 +1,6 @@
 sloc-workflow
 =============
-This is a workflow that calculates SLOC(Source Line Of Code) in the current folder in finder. 
+This is a Alfred 2 workflow that calculates SLOC(Source Line Of Code) in the current folder in finder. 
 
 USAGE
 ------
